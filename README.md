@@ -8,7 +8,7 @@ Starter Template
 Github Repo -> nextPage-starter
 
 API
-Documentation Link -> It Bookstore API
+Documentation Link -> <a href="https://api.itbook.store/">It Bookstore API</a>
 
 React Router Dom v6.4
 Documentation Link -> Link
