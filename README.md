@@ -2,7 +2,7 @@ nextPage Practice Repository
 A simple React app built with React & React Router Dom.
 
 Live Link
-Hosted in Netlify -> nextPage
+Hosted in Netlify -> <a href="https://nextgen-practice.netlify.app/">NextGen</a>
 
 Starter Template
 Github Repo -> nextPage-practice
